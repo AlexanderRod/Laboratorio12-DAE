@@ -82,7 +82,7 @@ WSGI_APPLICATION = 'lab12.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': '',
         'NAME': '',
         'USER': '',
         'PASSWORD': '',
